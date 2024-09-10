@@ -1,7 +1,7 @@
   ## Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
   ![](https://komarev.com/ghpvc/?username=cjhCoder7&label=Profile%20Visits&color=blue&style=for-the-badge)
   
-<img src="https://github.com/cjhCoder7/cjhCoder7/blob/main/cartoon.jpg" alt="side Image" align="right" width="190" height="auto" />
+<img src="https://github.com/cjhCoder7/cjhCoder7/blob/main/cartoon.jpg" alt="side Image" align="right" width="180" height="auto" />
 <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
   
   - 🔭 I’m currently an undergraduate student at Beihang University.
@@ -29,7 +29,7 @@
   
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjhCoder7&count_private=true&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjhCoder7&count_private=true&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)  &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjhCoder7&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
