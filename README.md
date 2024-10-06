@@ -1,7 +1,7 @@
   ## Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
   ![](https://komarev.com/ghpvc/?username=cjhCoder7&label=Profile%20Visits&color=blue&style=for-the-badge)
   
- &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;<img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" width="150" height="auto"/><img src="https://github.com/cjhCoder7/cjhCoder7/blob/main/cartoon.jpg" width="180" height="auto" />&nbsp; &nbsp;<img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" width="150" height="auto"/>
+  &nbsp;  &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;<img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" width="150" height="auto"/><img src="https://github.com/cjhCoder7/cjhCoder7/blob/main/cartoon.jpg" width="180" height="auto" />&nbsp; &nbsp;<img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" width="150" height="auto"/>
   
   - 🔭 I’m currently an undergraduate student at Beihang University.
   - 🌱 I’m currently learning Computer Science and Technology.
