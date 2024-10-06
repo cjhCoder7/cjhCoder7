@@ -47,9 +47,7 @@
   <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/768px-PyCharm_Icon.svg.png"></code>
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Now Playing Games
-<div style="display:flex;justify-content:center;">
-   <img src="https://github.com/cjhCoder7/cjhCoder7/blob/main/vilorant.webp" style="margin: auto;">
-</div>
+  &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;&nbsp; <img height="300" src="https://github.com/cjhCoder7/cjhCoder7/blob/main/vilorant.webp">
   
 
 <!--
