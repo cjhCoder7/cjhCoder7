@@ -8,7 +8,16 @@
   - 😄 Pronouns: He / Him
   - ⚡ Fun fact: My name is based on my idol Cristiano Ronaldo ⚽ and the major I studied 💻.
 
-  ### 👨🏻‍💻 Languages and Tools <br />
+
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='30' /> My Github Stats:
+![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cjhCoder7&theme=github_dark)
+![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cjhCoder7&theme=github_dark)
+![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cjhCoder7&theme=github_dark)
+![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cjhCoder7&theme=github_dark)
+![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cjhCoder7&theme=github_dark&utcOffset=8)
+[![GitHub Streak](https://streak-stats.demolab.com?user=cjhCoder7&theme=tokyonight&border_radius=6&mode=weekly&card_width=700&card_height=200)](https://git.io/streak-stats)
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Languages and Tools <br />
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -36,12 +45,12 @@
   <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></code>
   <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"></code>
   <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/768px-PyCharm_Icon.svg.png"></code>
-  
-  
 
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjhCoder7&count_private=true&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)  &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjhCoder7&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Now Playing Games
+<div style="display:flex;justify-content:center;">
+   <img src="https://github.com/cjhCoder7/cjhCoder7/blob/main/vilorant.webp" style="margin: auto;">
+</div>
+  
 
 <!--
 **cjhCoder7/cjhCoder7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
