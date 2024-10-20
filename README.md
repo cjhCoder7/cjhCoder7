@@ -18,7 +18,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=cjhCoder7&theme=tokyonight&border_radius=6&mode=weekly&card_width=700&card_height=200)](https://git.io/streak-stats)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Languages and Tools <br />
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+  😍| <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -30,17 +30,18 @@
   <code><img height="40" src="https://github.com/cjhCoder7/cjhCoder7/blob/main/file-type-verilog.svg"></code>
   <br>
   <br>
-  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/690px-Flask_logo.svg.png"></code>
+  😏| <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/690px-Flask_logo.svg.png"></code>
   <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/732px-PyTorch_logo_black.svg.png"></code>
+  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png"></code>
   <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Playwright_Logo.svg/1200px-Playwright_Logo.svg.png?20230702171919"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"></code>
   <br>
   <br>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+  🥰| <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
   <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/330px-SQLite370.svg.png"></code>
   <br>
   <br>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  😋| <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
   <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></code>
   <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"></code>
