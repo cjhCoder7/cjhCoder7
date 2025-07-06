@@ -17,6 +17,7 @@
 ![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cjhCoder7&theme=github_dark&utcOffset=8)
 [![GitHub Streak](https://streak-stats.demolab.com?user=cjhCoder7&theme=tokyonight&border_radius=6&mode=weekly&card_width=700&card_height=200)](https://git.io/streak-stats)
 
+<!--
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Languages and Tools <br />
   😍| <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -46,7 +47,7 @@
   <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></code>
   <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"></code>
   <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/768px-PyCharm_Icon.svg.png"></code>
-  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Clion.svg"></code>
+  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Clion.svg"></code>-->
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Now Playing Games
  &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;&nbsp; <img height="300" src="https://github.com/cjhCoder7/cjhCoder7/blob/main/vilorant_blue.webp">
