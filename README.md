@@ -50,7 +50,7 @@
   <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Clion.svg"></code>-->
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Now Playing Games
- &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; <img height="300" src="https://github.com/cjhCoder7/cjhCoder7/blob/main/vilorant_blue.webp">
+ &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img height="300" src="https://github.com/cjhCoder7/cjhCoder7/blob/main/vilorant_blue.webp">
   
 
 <!--
