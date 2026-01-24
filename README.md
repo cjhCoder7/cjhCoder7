@@ -9,7 +9,7 @@
   - 😄 Pronouns: He / Him
   - ⚡ Fun fact: My name is based on my idol Cristiano Ronaldo ⚽ and the major I studied 💻.
 
-### <img src="https://github.githubassets.com/images/mona-loading-default.gif" width='40' /> My Github Stats:
+### My Github Stats <img src="https://github.githubassets.com/images/mona-loading-default.gif" width='40' /> 
 <img src="./profile-3d-contrib/profile-gitblock.svg" width="100%" alt="3D Contrib"/>
 
 <!--
