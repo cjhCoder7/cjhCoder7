@@ -1,5 +1,5 @@
   ## Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-  ![](https://komarev.com/ghpvc/?username=cjhCoder7&label=Profile%20Visits&color=blue&style=for-the-badge)
+  ![](https://komarev.com/ghpvc/?username=cjhCoder7&label=Profile%20Visits&color=blue&style=for-the-badge) <a href="https://cjhcoder7.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Hugo&logoColor=white" alt="Blog" /></a>  <a href="mailto:chengjunhang7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <!--
    &nbsp; &nbsp;  &nbsp; &nbsp;&nbsp;&nbsp;  &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;<img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" width="150" height="auto"/><img src="https://github.com/cjhCoder7/cjhCoder7/blob/main/cartoon.jpg" width="180" height="auto" />&nbsp; &nbsp;<img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" width="150" height="auto"/>
@@ -8,7 +8,6 @@
   - 🔭 I’m currently an undergraduate student at Beihang University and learning Computer Science and Technology.
   - 😄 Pronouns: He / Him
   - ⚡ Fun fact: My name is based on my idol Cristiano Ronaldo ⚽ and the major I studied 💻.
-
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='30' /> My Github Stats:
 ![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cjhCoder7&theme=github_dark)
@@ -52,9 +51,10 @@
   <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/768px-PyCharm_Icon.svg.png"></code>
   <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Clion.svg"></code>-->
 
+<!--
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Now Playing Games
  &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img height="300" src="https://github.com/cjhCoder7/cjhCoder7/blob/main/vilorant_blue.webp">
-  
+-->
 
 <!--
 **cjhCoder7/cjhCoder7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
