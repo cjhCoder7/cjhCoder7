@@ -9,13 +9,15 @@
   - 😄 Pronouns: He / Him
   - ⚡ Fun fact: My name is based on my idol Cristiano Ronaldo ⚽ and the major I studied 💻.
 
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='30' /> My Github Stats:
+### <img src="https://github.githubassets.com/images/mona-loading-default.gif" width='40' /> My Github Stats:
+<img src="./profile-3d-contrib/profile-gitblock.svg" width="90%" alt="3D Contrib"/>
+
+<!--
 ![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cjhCoder7&theme=github_dark)
 <a>
 ![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cjhCoder7&theme=github_dark)
 ![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cjhCoder7&theme=github_dark)
 </a>
-<!--
 ![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cjhCoder7&theme=github_dark)
 ![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cjhCoder7&theme=github_dark)
 ![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cjhCoder7&theme=github_dark)
