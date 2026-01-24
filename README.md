@@ -11,10 +11,12 @@
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='30' /> My Github Stats:
 ![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cjhCoder7&theme=github_dark)
+<!--
 ![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cjhCoder7&theme=github_dark)
 ![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cjhCoder7&theme=github_dark)
 ![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cjhCoder7&theme=github_dark)
 ![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cjhCoder7&theme=github_dark&utcOffset=8)
+-->
 [![GitHub Streak](https://streak-stats.demolab.com?user=cjhCoder7&theme=tokyonight&border_radius=6&mode=weekly&card_width=700&card_height=200)](https://git.io/streak-stats)
 
 <!--
