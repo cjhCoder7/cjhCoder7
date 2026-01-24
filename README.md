@@ -10,7 +10,7 @@
   - ⚡ Fun fact: My name is based on my idol Cristiano Ronaldo ⚽ and the major I studied 💻.
 
 ### <img src="https://github.githubassets.com/images/mona-loading-default.gif" width='40' /> My Github Stats:
-<img src="./profile-3d-contrib/profile-gitblock.svg" width="90%" alt="3D Contrib"/>
+<img src="./profile-3d-contrib/profile-gitblock.svg" width="100%" alt="3D Contrib"/>
 
 <!--
 ![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cjhCoder7&theme=github_dark)
